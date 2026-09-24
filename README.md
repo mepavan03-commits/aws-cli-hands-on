@@ -56,7 +56,3 @@ This repository documents my hands-on learning and practical work with the AWS C
 | `--query` | Select required data from the response |
 | `--filters` | Filter resources using AWS API filters |
 
-## Example Commands
-
-```bash
-aws --version# aws-cli-hands-on
